@@ -3,7 +3,7 @@
 ## 🇮🇩 Bahasa Indonesia
 
 ### Deskripsi
-OpenWeather adalah aplikasi yang menampilkan informasi cuaca terkini berdasarkan lokasi yang diinginkan pengguna. Aplikasi ini memanfaatkan API OpenWeatherMap untuk mendapatkan data cuaca seperti suhu, kelembapan, kecepatan angin, dan kondisi cuaca saat ini. Cocok digunakan untuk mengetahui prediksi cuaca harian secara cepat dan praktis.
+Weatherly adalah aplikasi yang menampilkan informasi cuaca terkini berdasarkan lokasi yang diinginkan pengguna. Aplikasi ini memanfaatkan API OpenWeatherMap untuk mendapatkan data cuaca seperti suhu, kelembapan, kecepatan angin, dan kondisi cuaca saat ini. Cocok digunakan untuk mengetahui prediksi cuaca harian secara cepat dan praktis.
 
 ### Fitur
 - Menampilkan informasi cuaca real-time berdasarkan kota atau lokasi
@@ -42,7 +42,7 @@ OpenWeather adalah aplikasi yang menampilkan informasi cuaca terkini berdasarkan
 ## 🇬🇧 English
 
 ### Description
-OpenWeather is an application that displays the latest weather information based on the user's desired location. It utilizes the OpenWeatherMap API to fetch weather data such as temperature, humidity, wind speed, and current weather conditions. This app is ideal for quickly and conveniently checking daily weather forecasts.
+Weatherly is an application that displays the latest weather information based on the user's desired location. It utilizes the OpenWeatherMap API to fetch weather data such as temperature, humidity, wind speed, and current weather conditions. This app is ideal for quickly and conveniently checking daily weather forecasts.
 
 ### Features
 - Display real-time weather information by city or location
