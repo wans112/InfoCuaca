@@ -1,4 +1,4 @@
-# OpenWeather
+# Weatherly
 
 ## 🇮🇩 Bahasa Indonesia
 
